@@ -1,5 +1,6 @@
 .env
 venv/
+.DS_Store
 emerging_technologies_report.json
 weekly_report_structured.json
 index.html
