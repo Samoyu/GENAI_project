@@ -3,4 +3,5 @@ venv/
 .DS_Store
 emerging_technologies_report.json
 weekly_report_structured.json
+startup_funding_report.json
 index.html
