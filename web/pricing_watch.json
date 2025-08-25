@@ -1,0 +1,132 @@
+{
+  "pricing_changes": [
+    {
+      "company": "Spotify",
+      "products_affected": [
+        "Premium subscription"
+      ],
+      "change_type": "increase",
+      "summary": "Spotify is increasing its Premium subscription prices from €10.99 to €11.99 across markets in the Middle East, Africa, Europe, Latin America, and the Asia-Pacific region.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/08/05/spotify-expands-audibook-access-to-family-plan-members-in-the-u-s-for-the-first-time/"
+      ]
+    },
+    {
+      "company": "Nintendo",
+      "products_affected": [
+        "Original Nintendo Switch console"
+      ],
+      "change_type": "increase",
+      "summary": "Nintendo is raising the prices of its original Nintendo Switch game consoles due to 'market conditions'.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/08/01/nintendo-raising-original-switch-console-prices-due-to-market-conditions/"
+      ]
+    },
+    {
+      "company": "Roku",
+      "products_affected": [
+        "Howdy streaming service"
+      ],
+      "change_type": "launch",
+      "summary": "Roku is launching an ad-free streaming service called Howdy, which costs $2.99 per month and features a library of nearly 10,000 hours of content.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/08/05/roku-launches-howdy-a-2-99-ad-free-streaming-service/"
+      ]
+    },
+    {
+      "company": "Truecaller",
+      "products_affected": [
+        "Call-recording feature"
+      ],
+      "change_type": "discontinue",
+      "summary": "Truecaller's call-recording feature will no longer work on iPhones from September 30.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/08/01/truecallers-call-recording-feature-wont-work-on-iphones-from-september-30/"
+      ]
+    },
+    {
+      "company": "Instagram",
+      "products_affected": [
+        "Live streaming feature"
+      ],
+      "change_type": "requirement",
+      "summary": "Instagram now requires users to have at least 1,000 followers to go live.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/08/01/instagram-now-requires-users-to-have-at-least-1000-followers-to-go-live/"
+      ]
+    },
+    {
+      "company": "Tinder",
+      "products_affected": [
+        "Subscription prices"
+      ],
+      "change_type": "launch",
+      "summary": "Tinder is exploring a redesign, dating 'modes,' and college-specific features to boost engagement.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/08/06/tinder-explores-a-redesign-dating-modes-and-college-specific-features-to-boost-engagement/"
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "products_affected": [
+        "ChatGPT",
+        "Operator"
+      ],
+      "change_type": "launch",
+      "summary": "OpenAI is introducing a new feature called Operator, which will allow users to customize their interactions with ChatGPT.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/07/31/tech-layoffs-2025-list/",
+        "https://techcrunch.com/2025/08/05/spotify-expands-audibook-access-to-family-plan-members-in-the-u-s-for-the-first-time/"
+      ]
+    },
+    {
+      "company": "Mastercard",
+      "products_affected": [
+        "Game platforms"
+      ],
+      "change_type": "denial",
+      "summary": "Mastercard has denied pressuring game platforms, while Valve tells a different story.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/08/03/mastercard-denies-pressuring-game-platforms-valve-tells-a-different-story/"
+      ]
+    },
+    {
+      "company": "Tesla",
+      "products_affected": [
+        "Compensation package"
+      ],
+      "change_type": "increase",
+      "summary": "Tesla has handed Elon Musk a $29 billion compensation package amid an 'AI talent war'.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/08/04/tesla-hands-29b-comp-package-to-elon-musk-amid-ai-talent-war/"
+      ]
+    },
+    {
+      "company": "Figma",
+      "products_affected": [
+        "Stock price"
+      ],
+      "change_type": "increase",
+      "summary": "Figma's stock soared in its highly anticipated IPO, with a market cap instantly hitting $45 billion.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/07/31/figmas-stock-soars-in-its-highly-anticipated-ipo-market-cap-instantly-hits-45b/"
+      ]
+    },
+    {
+      "company": "Roku",
+      "products_affected": [
+        "Roku Channel"
+      ],
+      "change_type": "growth",
+      "summary": "Roku's Roku Channel is the most popular free, ad-supported streaming service, with over 125 million users.",
+      "evidence_urls": [
+        "https://techcrunch.com/2025/07/31/tech-layoffs-2025-list/",
+        "https://techcrunch.com/2025/08/05/spotify-expands-audibook-access-to-family-plan-members-in-the-u-s-for-the-first-time/"
+      ]
+    }
+  ],
+  "as_of_utc": "2025-08-14T08:14:36.717369+00:00",
+  "window_start_utc": "2025-07-31T08:14:36.717369+00:00",
+  "window_end_utc": "2025-08-14T08:14:36.717369+00:00",
+  "num_sources": 27
+}

@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 # -------------------------
 INDEX_NAME = "techcrunch-articles"  
 EMBED_MODEL = "nvidia/llama-3.2-nv-embedqa-1b-v2"
-LLM_MODEL = "meta/llama-3.1-8b-instruct"
+LLM_MODEL = "openai/gpt-oss-20b" 
 NVIDIA_BASE_URL = "https://integrate.api.nvidia.com/v1"
 
 
@@ -43,9 +43,9 @@ llm = ChatNVIDIA(
 )
 
 vector_store = PineconeVectorStore(
-    index=index,          # SAME index object
+    index=index,        
     embedding=embedder,
-    text_key="text"       # MUST match metadata key used above
+    text_key="text"    
 )
 
 query = "Tell me what does Meta violate recently"
